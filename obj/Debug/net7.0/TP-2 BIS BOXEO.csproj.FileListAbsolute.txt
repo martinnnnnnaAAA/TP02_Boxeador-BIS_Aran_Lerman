@@ -1,0 +1,15 @@
+Z:\TP-2 BIS BOXEO\bin\Debug\net7.0\TP-2 BIS BOXEO.exe
+Z:\TP-2 BIS BOXEO\bin\Debug\net7.0\TP-2 BIS BOXEO.deps.json
+Z:\TP-2 BIS BOXEO\bin\Debug\net7.0\TP-2 BIS BOXEO.runtimeconfig.json
+Z:\TP-2 BIS BOXEO\bin\Debug\net7.0\TP-2 BIS BOXEO.dll
+Z:\TP-2 BIS BOXEO\bin\Debug\net7.0\TP-2 BIS BOXEO.pdb
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.csproj.AssemblyReference.cache
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.AssemblyInfoInputs.cache
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.AssemblyInfo.cs
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.csproj.CoreCompileInputs.cache
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.dll
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\refint\TP-2 BIS BOXEO.dll
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.pdb
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\TP-2 BIS BOXEO.genruntimeconfig.cache
+Z:\TP-2 BIS BOXEO\obj\Debug\net7.0\ref\TP-2 BIS BOXEO.dll
